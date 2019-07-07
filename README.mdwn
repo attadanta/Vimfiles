@@ -1,9 +1,8 @@
 # Vimfiles
 
 Most of this repository is respectfully stolen from Ian Langworth's excellent article [Vim After 15
-Years|https://statico.github.io/vim3.html]. I've tried to adopt only the features I understand and
-am currently getting used to so it is not a verbatim copy of [Ian's
-repository|https://github.com/statico/dotfiles/blob/master/.vim/vimrc].
+Years][1]. I've tried to adopt only the features I understand and am currently getting used to so it
+is not a verbatim copy of [Ian's repository][2].
 
 ## Initial Installation
 
@@ -26,3 +25,5 @@ or, more concretely:
     git submodule update
     vim -c :PluginInstall
 
+[1]: https://statico.github.io/vim3.html
+[2]: https://github.com/statico/dotfiles/blob/master/.vim/vimrc
