@@ -8,7 +8,7 @@ is not a verbatim copy of [Ian's repository][2].
 
 The setup entails the following steps:
 
-1. Install [FZF|https://github.com/junegunn/fzf] via git
+1. Install [FZF][3] via git
 1. Clone into `~/.vim`
 1. Symlink `.vimrc` into your home directory
 1. Initialize git submodules
@@ -27,3 +27,4 @@ or, more concretely:
 
 [1]: https://statico.github.io/vim3.html
 [2]: https://github.com/statico/dotfiles/blob/master/.vim/vimrc
+[3]: https://github.com/junegunn/fzf
