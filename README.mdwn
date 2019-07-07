@@ -1,0 +1,14 @@
+# Vimfiles
+
+Most of this repository is respectfully stolen from Ian Langworth's excellent article [Vim After 15
+Years|https://statico.github.io/vim3.html]. I've tried to adopt only the features I understand and
+am currently getting used to so it is not a verbatim copy of [Ian's
+repository|https://github.com/statico/dotfiles/blob/master/.vim/vimrc].
+
+## Initial Installation
+
+1. Set up Vundle
+1. Clone into `~/.vim`
+1. Symlink `.vimrc` into your home directory: `ln -s ~/.vim/vimrc ~/.vimrc`
+1. Open Vim and do `:source %` followed by `:PluginInstall`
+
