@@ -12,7 +12,7 @@ The setup entails the following steps:
 1. Clone into `~/.vim`
 1. Symlink `.vimrc` into your home directory
 1. Initialize git submodules
-1. Open Vim and do `:source %` followed by `:PluginInstall`
+1. Open Vim and do `:PluginInstall`
 
 or, more concretely:
 
